@@ -1,0 +1,21 @@
+# Macro file for XR1
+
+#/run/beamOn 57120000
+
+#/run/beamOn 7140000
+
+#/run/beamOn 100000000
+
+#/run/beamOn 10000000
+
+#/run/beamOn 50000
+
+#/run/beamOn 216
+
+#/run/beamOn 1156000
+
+#/run/beamOn 12484800
+
+#/run/beamOn 42993920
+
+/run/beamOn 2000000
